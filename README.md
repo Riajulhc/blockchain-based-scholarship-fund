@@ -23,7 +23,43 @@ The following flowchart outlines the workflow of the Scholarship Fund:
 5. **Owner Withdrawal**
    - After distribution, the owner can withdraw any remaining funds.
 
-![Flowchart](https://www.google.com/imgres?q=scholarship%20fund%20smart%20contract%20flowchart&imgurl=https%3A%2F%2Fimages-provider.frontiersin.org%2Fapi%2Fipx%2Fw%3D1200%26f%3Dpng%2Fhttps%3A%2F%2Fwww.frontiersin.org%2Ffiles%2FArticles%2F497985%2Ffbloc-03-497985-HTML%2Fimage_m%2Ffbloc-03-497985-g001.jpg&imgrefurl=https%3A%2F%2Fwww.frontiersin.org%2Fjournals%2Fblockchain%2Farticles%2F10.3389%2Ffbloc.2020.497985%2Ffull&docid=kE_dWOYJpZQPiM&tbnid=3yFl-XwF9OozNM&vet=12ahUKEwj86-qThZWIAxVvC0QIHTeoCKsQM3oECFkQAA..i&w=1084&h=816&hcb=2&ved=2ahUKEwj86-qThZWIAxVvC0QIHTeoCKsQM3oECFkQAA)
+**Flowchart:**
++-------------------------+
+|    Contract Deployment  |
+| - Initialize with       |
+|   scholarship amount    |
++-------------------------+
+             |
+             v
++-------------------------+
+|  Contributor Donations  |
+| - Users contribute ETH  |
+|   to the contract       |
++-------------------------+
+             |
+             v
++-------------------------+
+|   Fund Accumulation     |
+| - Track total funds     |
+|   and individual        |
+|   contributions         |
++-------------------------+
+             |
+             v
++-------------------------+
+|  Scholarship Distribution|
+| - Owner distributes     |
+|   scholarship to        |
+|   recipient             |
++-------------------------+
+             |
+             v
++-------------------------+
+|    Owner Withdrawal     |
+| - Owner withdraws       |
+|   remaining funds       |
++-------------------------+
+
 
 Ensure you use this address to interact with the contract to avoid potential issues.
 
