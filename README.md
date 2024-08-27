@@ -1,5 +1,8 @@
 # Scholarship Fund Smart Contract
 
+![image](https://github.com/user-attachments/assets/78d79bd2-1ee8-46ee-9eba-5e860ab358bf)
+
+
 ## Vision
 
 The **Scholarship Fund Smart Contract** provides a secure and transparent system for collecting contributions and distributing scholarships. By leveraging Ethereum's blockchain, this project ensures that funds are managed and allocated fairly. Our vision is to create a decentralized platform that enhances trust and efficiency in the management of scholarship funds.
@@ -159,7 +162,7 @@ The **Scholarship Fund Smart Contract** utilizes various technologies and method
   - Users interact with the smart contract through Web3 libraries (such as Web3.js or Ethers.js) integrated into web applications.
  
     
- ****Contract Address****: 0x05f5D6cbB2d44a6fE981aA117b5BDC808841f572 
+ **Contract Address**: 0x05f5D6cbB2d44a6fE981aA117b5BDC808841f572 
 
  ## Contact Details
 
@@ -167,7 +170,7 @@ For any questions, support, or collaboration inquiries, please contact:
 
 - **Project Lead:** Riajul Hoque Choudhury
 - **Email:** riazulhc@gmail.com
-- **Phone:** +91 6001136769
+- **LinkedIn:** Riajul Hoque Choudhury
 
  
 We look forward to your feedback and are excited about the potential impact of the Scholarship Fund!
