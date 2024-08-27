@@ -24,6 +24,7 @@ The following flowchart outlines the workflow of the Scholarship Fund:
    - After distribution, the owner can withdraw any remaining funds.
 
 **Flowchart:**
+```
 +-------------------------+
 |    Contract Deployment  |
 | - Initialize with       |
@@ -59,7 +60,7 @@ The following flowchart outlines the workflow of the Scholarship Fund:
 | - Owner withdraws       |
 |   remaining funds       |
 +-------------------------+
-
+```
 
 Ensure you use this address to interact with the contract to avoid potential issues.
 
